@@ -1,0 +1,9 @@
+---
+applications:
+- name: ECAD013
+  random-route: true
+  path: target/Pract_2.war
+  memory: 512M
+  instances: 1
+  host: ECAD013p2
+  domain: au-syd.mybluemix.net
